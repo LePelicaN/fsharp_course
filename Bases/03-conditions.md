@@ -35,3 +35,13 @@ else
     printfn "x vaut 10 ou plus" // Dans le else => x < 10 est faux
 printfn "x vaut n'importe quoi" // Hors du if => x peut valoir moins que 10 ou pas
 ```
+
+## Exercices
+
+https://www.codingame.com/training/easy/power-of-thor-episode-1
+
+https://www.codingame.com/training/easy/the-dart-101
+
+https://www.codingame.com/ide/puzzle/blowing-fuse
+
+
